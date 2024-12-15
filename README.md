@@ -7,8 +7,6 @@ Welcome to **DrawTogether**! This is a collaborative drawing application where m
 - **Real-time Collaboration**: Draw with friends and colleagues in real time.
 - **Simple Interface**: User-friendly and intuitive drawing tools.
 - **Multiple Brush Styles**: Various brush styles to choose from.
-- **Layer Support**: Work with multiple layers to organize your artwork.
-- **Export Options**: Save your creations in various formats.
 
 ## **Installation**
 To get started with DrawTogether, follow these steps:
