@@ -5,7 +5,7 @@ import React from "react";
 import { useBoardContext } from "@/context/myContext";
 import { useRouter } from "next/navigation";
 
-const page = ({ params }: any) => {
+const Page = ({ params }: any) => {
   const { user } = useBoardContext();
   const router = useRouter();
   const handleGoBack = (e: any) => {
@@ -37,4 +37,4 @@ const page = ({ params }: any) => {
   );
 };
 
-export default page;
+export default Page;
