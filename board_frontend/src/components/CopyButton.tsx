@@ -15,7 +15,7 @@ const CopyButton = ({ text }: { text: string }) => {
         className="flex m-0 p-0.5 h-9 w-9 hover:bg-hoverCol rounded-xl items-center justify-center"
         type="button"
       >
-        <Image src="/icons/copy.svg" className=" h-6 w-6 scale-95" alt="copy"/>
+        <Image src="/icons/copy.svg" width={6} height={6} className=" h-6 w-6 scale-95" alt="copy"/>
       </button>
     </CopyToClipboard>
   );

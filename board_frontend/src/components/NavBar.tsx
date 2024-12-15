@@ -73,7 +73,7 @@ const NavBar = ({
   return (
     <div className="flex w-screen flex-col bg-col4 text-col3 h-fit py-2 px-5">
       <div className="flex flex-row px-5 justify-between items-center">
-        <h1 className=" text-2xl font-extrabold font-serif">GoBoard</h1>
+        <h1 className=" text-2xl font-extrabold font-serif">DrawTogether</h1>
         <div className="flex">
           <Avatar>
             <AvatarImage src="https://github.com/shadcn.png" alt="@shadcn" />

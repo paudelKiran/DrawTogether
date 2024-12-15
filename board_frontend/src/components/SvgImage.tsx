@@ -25,6 +25,8 @@ const SvgImage = ({
           <Image
             src={`/icons/${fileName}.svg`}
             alt={fileName}
+            width={8}
+            height={8}
             className="svgImg scale-90"
           />
         </div>
@@ -36,6 +38,8 @@ const SvgImage = ({
           <Image
             src={`/icons/${fileName}.svg`}
             alt={fileName}
+            width={8}
+            height={8}
             className="svgImg"
           />
           <p className="flex text-sm">{text}</p>
