@@ -21,7 +21,7 @@ const Page = ({ params }: any) => {
       ) : (
         <div className="h-full w-full flex items-center justify-center flex-col space-y-6 text-col3">
           <div className="flex flex-col items-center">
-            <h1 className="text-5xl">Sorry! We couldn't connect you.</h1>
+            <h1 className="text-5xl">Sorry! We couldn&apos;t connect you.</h1>
             <p className="texl-2xl">Please, go back and rejoin.</p>
           </div>
           <button
